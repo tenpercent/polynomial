@@ -1,0 +1,4 @@
+polynomial
+==========
+
+Polynomial class implementation
